@@ -1,0 +1,3 @@
+# Deploy App
+follow directions in MAUI documentation
+install certificate on local computer > trusted root certification
