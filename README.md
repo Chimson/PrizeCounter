@@ -10,7 +10,7 @@ What does this program do?
 
 Installation
 --------------------------
-Download [MSIX FILE](https://github.com/Chimson/PrizeCounter/blob/main/Publish/PrizeCounter_0.0.4.0_Debug_Test/PrizeCounter_0.0.4.0_x64_Debug.msix)
+* Download [MSIX FILE](https://github.com/Chimson/PrizeCounter/blob/main/Publish/PrizeCounter_0.0.4.0_Debug_Test/PrizeCounter_0.0.4.0_x64_Debug.msix)
   (click ... on right then download)
 
 
