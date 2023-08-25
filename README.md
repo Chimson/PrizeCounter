@@ -13,6 +13,7 @@ Installation
 * Download [MSIX FILE](https://github.com/Chimson/PrizeCounter/blob/main/Publish/PrizeCounter_0.0.4.0_Debug_Test/PrizeCounter_0.0.4.0_x64_Debug.msix)
   (click MSIX FILE link, then on ... in top right corner, then download)
 * Download [CERTIFICATE](https://github.com/Chimson/PrizeCounter/blob/main/Publish/PrizeCounter_0.0.4.0_Debug_Test/PrizeCounter_0.0.4.0_x64_Debug.cer)
+  (click CERTIFICATE link, then on ... in top right corner, then download)
 * Double click on .cer (Security Certificate) file > Open > Install Certificate > Select Local Machine > Next > Select Place All Certificates in Following Store >
     Browse > Trusted Root Certification Authorities > Next > Finish
 * Double Click on MSIX file > Install
